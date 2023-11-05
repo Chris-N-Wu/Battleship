@@ -1,0 +1,14 @@
+Enter your fleet in the order [Carrier, Battleship, Destroyer, Submarine].
+[INVALID] 4 Arguments Required
+Enter your fleet in the order [Carrier, Battleship, Destroyer, Submarine].
+[INVALID] Inputs Must Be Integers
+Enter your fleet in the order [Carrier, Battleship, Destroyer, Submarine].
+[INVALID] Input Must Be An Integer Greater Than Zero
+[INVALID] Total # of Ships Must Not Exceed 5 ships
+Enter your fleet in the order [Carrier, Battleship, Destroyer, Submarine].
+[INVALID] 4 Arguments Required
+Enter your fleet in the order [Carrier, Battleship, Destroyer, Submarine].
+[INVALID] 4 Arguments Required
+Enter your fleet in the order [Carrier, Battleship, Destroyer, Submarine].
+[INVALID] Total # of Ships Must Not Exceed 5 ships
+Enter your fleet in the order [Carrier, Battleship, Destroyer, Submarine].

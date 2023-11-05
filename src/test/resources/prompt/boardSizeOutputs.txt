@@ -1,0 +1,11 @@
+Enter Board Size [6, 15]:
+Enter Board Size [6, 15]:
+[INVALID] Must Input 2 Values
+[INVALID] Inputs Must Be Integers
+Enter Board Size [6, 15]:
+Enter Board Size [6, 15]:
+[INVALID] Inputs Must Be Integers
+[INVALID] Must Input 2 Values
+[INVALID] Must Input 2 Values
+[INVALID] Inputs Must Be Integers
+You Entered: Coord[x=6, y=15]

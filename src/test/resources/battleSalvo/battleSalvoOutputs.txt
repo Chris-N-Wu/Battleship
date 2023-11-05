@@ -1,0 +1,126 @@
+Welcome To BattleSalvo
+Enter Board Size [6, 15]:
+You Entered: Coord[x=6, y=6]
+Enter your fleet in the order [Carrier, Battleship, Destroyer, Submarine].
+ -  -  S  S  -  S 
+ -  -  S  S  -  S 
+ -  -  S  S  S  S 
+ -  -  S  S  S  S 
+ -  -  S  S  S  - 
+ -  -  -  S  -  - 
+
+ -  -  -  -  -  - 
+ -  -  -  -  -  - 
+ -  -  -  -  -  - 
+ -  -  -  -  -  - 
+ -  -  -  -  -  - 
+ -  -  -  -  -  - 
+
+Enter Targets...
+Row Input Must Be From: [0, 6), Col Input Must Be From: [0 to 6)
+Shot: 1
+You Entered: Coord[x=0, y=0]
+Shot: 2
+You Entered: Coord[x=0, y=1]
+Shot: 3
+You Entered: Coord[x=0, y=2]
+Shot: 4
+You Entered: Coord[x=0, y=3]
+ -  -  H  H  -  S 
+ -  -  S  S  -  S 
+ -  -  S  S  S  S 
+ -  -  S  S  S  S 
+ -  -  S  S  S  - 
+ -  -  -  S  -  - 
+
+ H  H  H  H  -  - 
+ -  -  -  -  -  - 
+ -  -  -  -  -  - 
+ -  -  -  -  -  - 
+ -  -  -  -  -  - 
+ -  -  -  -  -  - 
+
+Enter Targets...
+Row Input Must Be From: [0, 6), Col Input Must Be From: [0 to 6)
+Shot: 1
+You Entered: Coord[x=0, y=4]
+Shot: 2
+You Entered: Coord[x=0, y=5]
+Shot: 3
+You Entered: Coord[x=1, y=4]
+Shot: 4
+You Entered: Coord[x=2, y=4]
+ -  -  H  H  -  H 
+ -  -  S  S  -  S 
+ -  -  S  S  S  S 
+ -  -  S  S  S  S 
+ -  -  S  S  S  - 
+ -  -  -  S  -  - 
+
+ H  H  H  H  H  H 
+ -  -  -  -  H  - 
+ -  -  -  -  H  - 
+ -  -  -  -  -  - 
+ -  -  -  -  -  - 
+ -  -  -  -  -  - 
+
+Enter Targets...
+Row Input Must Be From: [0, 6), Col Input Must Be From: [0 to 6)
+Shot: 1
+You Entered: Coord[x=3, y=4]
+Shot: 2
+You Entered: Coord[x=4, y=4]
+Shot: 3
+You Entered: Coord[x=5, y=4]
+Shot: 4
+You Entered: Coord[x=2, y=3]
+ -  -  H  H  -  H 
+ -  -  H  S  -  S 
+ -  -  S  S  S  S 
+ -  -  S  S  S  S 
+ -  -  S  S  S  - 
+ -  -  -  S  -  - 
+
+ H  H  H  H  H  H 
+ -  -  -  -  H  - 
+ -  -  -  H  H  - 
+ -  -  -  -  H  - 
+ -  -  -  -  H  - 
+ -  -  -  -  H  - 
+
+Enter Targets...
+Row Input Must Be From: [0, 6), Col Input Must Be From: [0 to 6)
+Shot: 1
+You Entered: Coord[x=3, y=3]
+Shot: 2
+You Entered: Coord[x=4, y=3]
+Shot: 3
+You Entered: Coord[x=5, y=1]
+Shot: 4
+You Entered: Coord[x=5, y=2]
+ -  -  H  H  -  H 
+ -  -  H  H  -  S 
+ -  -  S  S  S  S 
+ -  -  S  S  S  S 
+ -  -  S  S  S  - 
+ -  -  -  S  -  - 
+
+ H  H  H  H  H  H 
+ -  -  -  -  H  - 
+ -  -  -  H  H  - 
+ -  -  -  H  H  - 
+ -  -  -  H  H  - 
+ -  H  H  -  H  - 
+
+Enter Targets...
+Row Input Must Be From: [0, 6), Col Input Must Be From: [0 to 6)
+Shot: 1
+You Entered: Coord[x=5, y=3]
+Shot: 2
+You Entered: Coord[x=5, y=0]
+Shot: 3
+You Entered: Coord[x=5, y=5]
+Shot: 4
+You Entered: Coord[x=1, y=1]
+PLAYER ONE: WON
+PLAYER TWO: LOSS

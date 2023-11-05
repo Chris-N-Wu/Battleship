@@ -1,0 +1,19 @@
+Enter Targets...
+Row Input Must Be From: [0, 8), Col Input Must Be From: [0 to 15)
+Shot: 1
+[INVALID] Coord Already Inputted. Try Again
+[INVALID] Inputs Must Be Integers
+You Entered: Coord[x=3, y=3]
+Shot: 2
+[INVALID] Rows must be [0 and -3), Cols must be [0 and 5)
+[INVALID] Rows must be [0 and 5), Cols must be [0 and -210)
+You Entered: Coord[x=4, y=4]
+Shot: 3
+[INVALID] Rows must be [0 and -400), Cols must be [0 and -400)
+[INVALID] Rows must be [0 and 5), Cols must be [0 and 100)
+[INVALID] Must Input 2 Values
+You Entered: Coord[x=5, y=5]
+Shot: 4
+[INVALID] Coord Already Inputted. Try Again
+[INVALID] Rows must be [0 and 500), Cols must be [0 and 100)
+You Entered: Coord[x=6, y=6]
